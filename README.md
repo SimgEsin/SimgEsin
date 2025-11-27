@@ -1,4 +1,4 @@
-Ben ISUBU Teknoloji Fakültesi Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim. Güncel teknoloji ve programlama dillerini takip etmek ve projeler oluşturma için bu sayfayı oluşturdum
+Ben ISUBU Teknoloji Fakültesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim. Güncel teknoloji ve programlama dillerini takip etmek ve projeler oluşturma için bu sayfayı oluşturdum
 
 <!--
 **SimgEsin/SimgEsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
